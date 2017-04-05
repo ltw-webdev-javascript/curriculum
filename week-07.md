@@ -11,6 +11,7 @@ video_tutorials:
 
 slides:
   - title: "jQuery plugins"
+    url: jquery-plugins
 
 tasks:
   - title: "Bracket Bamboozler"

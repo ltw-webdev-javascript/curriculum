@@ -17,6 +17,7 @@ video_tutorials:
 
 slides:
   - title: "Javascript & accessibility"
+    url: javascript-accessibility
 
 tasks:
   - title: "Prodigious Picker"
