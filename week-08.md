@@ -16,7 +16,9 @@ tasks:
   - title: "Javascript Journeyer"
     url: "https://activities.learn-the-web.algonquindesign.ca/javascript-journeyer/"
     type: activity
-  - type: blank
+  - title: "Bracket Bamboozler"
+    url: "https://activities.learn-the-web.algonquindesign.ca/bracket-bamboozler/"
+    type: activity
   - title: "Browser testing"
     url: "/courses/web-dev-1/browser-testing/"
     submit: "Submit nothing."

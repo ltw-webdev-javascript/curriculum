@@ -14,8 +14,8 @@ slides:
     url: jquery-plugins
 
 tasks:
-  - title: "Bracket Bamboozler"
-    # url: "https://activities.learn-the-web.algonquindesign.ca/bracket-bamboozler/"
+  - title: "Spacing Superstar"
+    url: "https://activities.learn-the-web.algonquindesign.ca/spacing-superstar/"
     type: activity
   - title: "Waypoints + SVG"
     url: waypoints-svg

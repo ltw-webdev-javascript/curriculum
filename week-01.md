@@ -24,7 +24,7 @@ slides:
 
 tasks:
   - title: "Type Trapper"
-    # url: "https://activities.learn-the-web.algonquindesign.ca/logic-luminary/"
+    url: "https://activities.learn-the-web.algonquindesign.ca/type-trapper/"
     type: activity
   - title: "What’s yo name?"
     url: whats-yo-name
