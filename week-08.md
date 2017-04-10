@@ -13,11 +13,11 @@ video_tutorials:
     url: javascript-checklist
 
 tasks:
-  - title: "Javascript Journeyer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/javascript-journeyer/"
-    type: activity
   - title: "Bracket Bamboozler"
     url: "https://activities.learn-the-web.algonquindesign.ca/bracket-bamboozler/"
+    type: activity
+  - title: "Javascript Journeyer"
+    url: "https://activities.learn-the-web.algonquindesign.ca/javascript-journeyer/"
     type: activity
   - title: "Browser testing"
     url: "/courses/web-dev-1/browser-testing/"
