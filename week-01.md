@@ -32,7 +32,6 @@ tasks:
     disabled: true
   - title: "Letter looper"
     url: "https://github.com/acgd-webdev-javascript/letter-looper"
-    disabled: true
   - title: "Letter looper triangle"
     url: "https://github.com/acgd-webdev-javascript/letter-looper-triangle"
     disabled: true
