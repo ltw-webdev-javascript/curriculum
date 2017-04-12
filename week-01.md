@@ -34,8 +34,6 @@ tasks:
     url: "https://github.com/acgd-webdev-javascript/letter-looper"
   - title: "Letter looper triangle"
     url: "https://github.com/acgd-webdev-javascript/letter-looper-triangle"
-    disabled: true
   - title: "Phrasal template generator"
     url: "https://github.com/acgd-webdev-javascript/phrasal-template-generator"
-    disabled: true
 ---
