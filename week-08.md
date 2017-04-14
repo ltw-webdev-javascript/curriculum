@@ -22,13 +22,11 @@ tasks:
   - title: "Browser testing"
     url: "/courses/web-dev-1/browser-testing/"
     submit: "Submit nothing."
-  - title: "Infographic effects paper plan"
+  - title: "Responsive infographic paper plan"
     url: "https://github.com/acgd-webdev-javascript/responsive-infographic-paper-plan"
     type: paper
-    disabled: true
+    no-solution: true
   - title: "Responsive infographic"
     url: "https://github.com/acgd-webdev-javascript/responsive-infographic"
     graded-as: infographic
-    disabled: true
-  - type: blank
 ---
