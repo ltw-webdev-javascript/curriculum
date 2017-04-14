@@ -26,11 +26,8 @@ tasks:
     disabled: true
   - title: "JS ❤ CSS"
     url: "https://github.com/acgd-webdev-javascript/js-heart-css"
-    disabled: true
   - title: "HTML rearranger"
     url: "https://github.com/acgd-webdev-javascript/html-rearranger"
-    disabled: true
   - title: "Grain globber"
     url: "https://github.com/acgd-webdev-javascript/grain-globber"
-    disabled: true
 ---

@@ -26,11 +26,8 @@ tasks:
     disabled: true
   - title: "Effect triggers"
     url: "https://github.com/acgd-webdev-javascript/effect-triggers"
-    disabled: true
   - title: "Retro sign"
     url: "https://github.com/acgd-webdev-javascript/retro-sign"
-    disabled: true
   - title: "Randomized starfield banner"
     url: "https://github.com/acgd-webdev-javascript/randomized-starfield-banner"
-    disabled: true
 ---

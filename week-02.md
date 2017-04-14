@@ -30,11 +30,8 @@ tasks:
     disabled: true
   - title: "Hidden message fixer"
     url: "https://github.com/acgd-webdev-javascript/hidden-message-fixer"
-    disabled: true
   - title: "Insect injector"
     url: "https://github.com/acgd-webdev-javascript/insect-injector"
-    disabled: true
   - title: "Berry blobber"
     url: "https://github.com/acgd-webdev-javascript/berry-blobber"
-    disabled: true
 ---

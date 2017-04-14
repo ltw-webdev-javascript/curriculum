@@ -25,11 +25,8 @@ tasks:
     disabled: true
   - title: "Circle maker"
     url: "https://github.com/acgd-webdev-javascript/circle-maker"
-    disabled: true
   - title: "Circle colourer"
     url: "https://github.com/acgd-webdev-javascript/circle-colourer"
-    disabled: true
   - title: "Simple to-do list"
     url: "https://github.com/acgd-webdev-javascript/simple-to-do-list"
-    disabled: true
 ---
