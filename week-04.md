@@ -22,7 +22,6 @@ tasks:
   - title: "Circle mover"
     url: circle-mover
     type: lesson
-    disabled: true
   - title: "Circle maker"
     url: "https://github.com/acgd-webdev-javascript/circle-maker"
   - title: "Circle colourer"

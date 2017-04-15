@@ -23,7 +23,6 @@ tasks:
   - title: "Bubble popper"
     url: bubble-popper
     type: lesson
-    disabled: true
   - title: "Effect triggers"
     url: "https://github.com/acgd-webdev-javascript/effect-triggers"
   - title: "Retro sign"

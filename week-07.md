@@ -19,11 +19,9 @@ tasks:
     type: activity
   - title: "Waypoints + SVG"
     url: waypoints-svg
-    disabled: true
     type: lesson
   - title: "Smooth scrolling navigation"
     url: smooth-scrolling-navigation
-    disabled: true
     type: lesson
   - title: "Plugin №3"
   - title: "Plugin №4"

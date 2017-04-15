@@ -27,7 +27,6 @@ tasks:
   - title: "Contact list generator"
     url: contact-list-generator
     type: lesson
-    disabled: true
   - title: "Hidden message fixer"
     url: "https://github.com/acgd-webdev-javascript/hidden-message-fixer"
   - title: "Insect injector"

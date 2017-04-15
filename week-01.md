@@ -29,7 +29,6 @@ tasks:
   - title: "What’s yo name?"
     url: whats-yo-name
     type: lesson
-    disabled: true
   - title: "Letter looper"
     url: "https://github.com/acgd-webdev-javascript/letter-looper"
   - title: "Letter looper triangle"

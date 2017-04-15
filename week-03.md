@@ -23,7 +23,6 @@ tasks:
   - title: "Working with jQuery"
     url: working-with-jquery
     type: lesson
-    disabled: true
   - title: "JS ❤ CSS"
     url: "https://github.com/acgd-webdev-javascript/js-heart-css"
   - title: "HTML rearranger"
