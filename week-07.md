@@ -14,8 +14,11 @@ slides:
     url: jquery-plugins
 
 tasks:
-  - title: "Spacing Superstar"
-    url: "https://activities.learn-the-web.algonquindesign.ca/spacing-superstar/"
+  - title: "Bracket Bamboozler"
+    url: "https://activities.learn-the-web.algonquindesign.ca/bracket-bamboozler/"
+    type: activity
+  - title: "Document Defeater"
+    url: "https://activities.learn-the-web.algonquindesign.ca/document-defeater/"
     type: activity
   - title: "Waypoints + SVG"
     url: waypoints-svg
@@ -23,6 +26,5 @@ tasks:
   - title: "Smooth scrolling navigation"
     url: smooth-scrolling-navigation
     type: lesson
-  - title: "Plugin №3"
-  - title: "Plugin №4"
+  - title: "Parallax, schmarallax"
 ---

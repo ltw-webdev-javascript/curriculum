@@ -23,10 +23,11 @@ tasks:
   - title: "Prodigious Picker"
     url: "https://activities.learn-the-web.algonquindesign.ca/prodigious-picker/"
     type: activity
+  - title: "Spacing Superstar"
+    url: "https://activities.learn-the-web.algonquindesign.ca/spacing-superstar/"
+    type: activity
   - title: "Implementing ARIA"
     type: lesson
-  - title: "Something, something accessibility"
-    type: lesson
-  - title: "It’s more than just mice"
   - title: "ARIA ready?"
+  - title: "It’s more than just mice"
 ---

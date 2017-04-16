@@ -13,15 +13,9 @@ video_tutorials:
     url: javascript-checklist
 
 tasks:
-  - title: "Bracket Bamboozler"
-    url: "https://activities.learn-the-web.algonquindesign.ca/bracket-bamboozler/"
-    type: activity
   - title: "Javascript Journeyer"
     url: "https://activities.learn-the-web.algonquindesign.ca/javascript-journeyer/"
     type: activity
-  - title: "Browser testing"
-    url: "/courses/web-dev-1/browser-testing/"
-    submit: "Submit nothing."
   - title: "Responsive infographic paper plan"
     url: "https://github.com/acgd-webdev-javascript/responsive-infographic-paper-plan"
     type: paper
@@ -29,4 +23,11 @@ tasks:
   - title: "Responsive infographic"
     url: "https://github.com/acgd-webdev-javascript/responsive-infographic"
     graded-as: infographic
+  - title: "Browser testing"
+    url: "/courses/web-dev-1/browser-testing/"
+    submit: "Submit nothing."
+  - title: "Accessibility testing"
+    url: "/courses/web-dev-3/accessibility-testing/"
+    submit: "Submit nothing."
+    disabled: true
 ---

@@ -17,9 +17,10 @@ slides:
     url: javascript-effects
 
 tasks:
-  - title: "Document Defeater"
-    url: "https://activities.learn-the-web.algonquindesign.ca/document-defeater/"
+  - title: "ARIA Activist"
+    url: "https://activities.learn-the-web.algonquindesign.ca/prodigious-picker/"
     type: activity
+    disabled: true
   - title: "Bubble popper"
     url: bubble-popper
     type: lesson
