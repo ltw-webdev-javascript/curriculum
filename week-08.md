@@ -29,5 +29,4 @@ tasks:
   - title: "Accessibility testing"
     url: "/courses/web-dev-3/accessibility-testing/"
     submit: "Submit nothing."
-    disabled: true
 ---
