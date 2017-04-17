@@ -18,9 +18,8 @@ slides:
 
 tasks:
   - title: "ARIA Activist"
-    url: "https://activities.learn-the-web.algonquindesign.ca/prodigious-picker/"
+    url: "https://activities.learn-the-web.algonquindesign.ca/aria-activist/"
     type: activity
-    disabled: true
   - title: "Bubble popper"
     url: bubble-popper
     type: lesson
