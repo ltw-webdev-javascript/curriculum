@@ -11,6 +11,18 @@ video_tutorials:
     highlight: true
   - title: "Javascript checklist"
     url: javascript-checklist
+  - title: "Javascript & accessibility"
+    url: javascript-accessibility
+    highlight: true
+  - title: "Browser testing checklist"
+    url: browser-testing-checklist
+    highlight: true
+  - title: "Accessibility checklist"
+    url: accessibility-checklist
+    highlight: true
+  - title: "Accessibility testing checklist"
+    url: accessibility-testing-checklist
+    highlight: true
 
 tasks:
   - title: "Javascript Journeyer"
@@ -26,7 +38,13 @@ tasks:
   - title: "Browser testing"
     url: "/courses/web-dev-1/browser-testing/"
     submit: "Submit nothing."
+    pair: true
+    button: activity
+    type: basic
   - title: "Accessibility testing"
-    url: "/courses/web-dev-3/accessibility-testing/"
+    url: "/courses/web-dev-2/accessibility-testing/"
     submit: "Submit nothing."
+    pair: true
+    button: activity
+    type: basic
 ---
