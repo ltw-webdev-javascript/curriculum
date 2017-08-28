@@ -1,4 +1,5 @@
 ---
+layout: week-self-directed
 topic: "Javascript + CSS + SVG"
 desc: "Use Javascript to trigger CSS & SVG effects like transition and animations."
 clr: "1, 2, 3, 4"

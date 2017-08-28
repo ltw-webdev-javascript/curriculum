@@ -1,4 +1,5 @@
 ---
+layout: week-self-directed
 topic: "Javascript!"
 desc: "Dig into writing Javascript and explore some activities to switch your brain’s thinking to computer mode."
 clr: "1, 3"

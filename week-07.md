@@ -1,4 +1,5 @@
 ---
+layout: week-self-directed
 topic: "jQuery plugins"
 desc: "Look at using some common jQuery plugins including smooth scroll & waypoints."
 clr: "1, 2, 3, 4, 5"

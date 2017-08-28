@@ -1,4 +1,5 @@
 ---
+layout: week-self-directed
 topic: "Javascript events"
 desc: "Learn how to write Javascript code that responds to user generated events like clicks and key presses."
 clr: "1, 3"

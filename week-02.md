@@ -1,4 +1,5 @@
 ---
+layout: week-self-directed
 topic: "Arrays, objects & functions"
 desc: "Learn to use more complex Javascript functionality with arrays, objects & reusable functions."
 clr: "1, 3"
