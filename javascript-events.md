@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Javascript events"
+desc: "A quick overview of events in Javascript, what they are, how they’re triggered, and how to write code that listens to events."
 
 slides:
   - type: super-big-text

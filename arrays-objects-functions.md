@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Arrays, objects & functions"
+desc: "A quick overview of how arrays, objects, and functions work within Javascript."
 
 slides:
   - type: super-big-text

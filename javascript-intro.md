@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Javascript intro"
+desc: "A quick introduction to Javascript, what its purpose is, and how it works in cooperation with HTML & CSS."
 
 slides:
   - type: super-big-text

@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "jQuery plugins"
+desc: "A quick overview of using jQuery plugins to integrate quick, simple, already built functionality into your website."
 
 slides:
   - type: super-big-text

@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Javascript effects"
+desc: "How to apply animations and effects to websites using a combination of Javascript and CSS."
 
 slides:
   - type: super-big-text

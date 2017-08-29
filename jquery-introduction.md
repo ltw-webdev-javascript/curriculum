@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "jQuery introduction"
+desc: "A quick introduction to jQuery and how it works within Javascript while simplifying writing some code."
 
 slides:
   - type: super-big-text

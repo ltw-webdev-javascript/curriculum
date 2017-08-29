@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
-
 title: "Javascript accessibility"
+desc: "Describing accessibility considerations for Javascript functionality within websites."
 
 slides:
   - type: super-big-text
