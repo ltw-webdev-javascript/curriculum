@@ -1,5 +1,4 @@
 ---
-layout: week-self-directed
 topic: "Javascript & accessibility"
 desc: "Look at how accessibility can be improved for Javascript functionality using ARIA."
 clr: "1, 2, 3, 4"

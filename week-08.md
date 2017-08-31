@@ -1,5 +1,4 @@
 ---
-layout: week-self-directed
 topic: "Responsive infographic"
 desc: "Plan, design & develop an respsonive, interactive infographic with animations, transitions and oodles of Javascript."
 clr: "1, 2, 3, 4, 5"
