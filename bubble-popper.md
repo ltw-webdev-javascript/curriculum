@@ -3,13 +3,16 @@ layout: lesson
 title: "Bubble popper"
 desc: "Use jQuery & CSS animations and transitions to make a small application that makes and pops random bubbles."
 
+markbot_submit: true
+hide_show_for_marks: true
+
 extra_tutorials:
-  - title: "Javascript effects"
+  - title: "JavaScript effects"
     url: javascript-effects
-  - title: "Javascript cheat sheet"
+  - title: "JavaScript cheat sheet"
     url: javascript-cheat-sheet
-  - title: "Javascript effects slide deck"
-    url: /courses/web-dev-4/javascript-effects/
+  - title: "JavaScript effects slide deck"
+    url: "/courses/javascript/javascript-effects/"
 
 goal:
   before: "We’ll have a fully functional application that—when the space key is pressed—makes a random, poppable bubble."
@@ -193,7 +196,7 @@ steps:
     before: |
       The next piece of code we’re going to write is to make the bubbles “pop” when they are clicked.
 
-      To start, let’s write some Javascript that will add a class to the bubble when it’s clicked:
+      To start, let’s write some JavaScript that will add a class to the bubble when it’s clicked:
     code_lang: js
     code_file: "js/main.js"
     code: |
@@ -271,7 +274,7 @@ steps:
     before: |
       Even though the bubble shrinks and fades away there’s still an invisible `<div>` in the HTML.
 
-      *Let’s use Javascript to remove the `<div>` from the `<body>` after its animation has finished:*
+      *Let’s use JavaScript to remove the `<div>` from the `<body>` after its animation has finished:*
     code_lang: js
     code_file: "js/main.js"
     code: |

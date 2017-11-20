@@ -1,24 +1,24 @@
 ---
 layout: slide-deck
-title: "Javascript intro"
-desc: "A quick introduction to Javascript, what its purpose is, and how it works in cooperation with HTML & CSS."
+title: "JavaScript intro"
+desc: "A quick introduction to JavaScript, what its purpose is, and how it works in cooperation with HTML & CSS."
 
 slides:
   - type: super-big-text
     content: |
-      **Javascript intro**
+      **JavaScript intro**
 
   - content: |
-      ## Javascript ≠ Java
+      ## JavaScript ≠ Java
 
       *Two completely different programming languages*
     notes: |
-      When searching for answers **do not** search for Java—you’ll get confusing results because the Java programming language is *completely different* from Javascript.
+      When searching for answers **do not** search for Java—you’ll get confusing results because the Java programming language is *completely different* from JavaScript.
 
   - type: image
     image: layer-3.svg
     notes: |
-      Remember the “Peanut M&M” analogy? Well we’ve so far only talked about the peanut (HTML/content) & the chocolate (CSS/design), now we’re going to talk about the candy: Javascript.
+      Remember the “Peanut M&M” analogy? Well we’ve so far only talked about the peanut (HTML/content) & the chocolate (CSS/design), now we’re going to talk about the candy: JavaScript.
 
       JS isn’t necessary for a website (a chocolate covered peanut is still quite delicious) but depends completely on CSS & HTML to function.
 
@@ -32,7 +32,7 @@ slides:
   - content: |
       ## Think like a computer
 
-      - Javascript is a legit programming language
+      - JavaScript is a legit programming language
       - You need to start thinking like a computer
       - Computers only do exactly what you ask them
 
@@ -60,8 +60,8 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      - [Javascript syntax ➔](/topics/javascript-syntax/)
-      - [Javascript validator ➔](/topics/validators/#validating-javascript)
-      - [Javascript cheat sheet ➔](/topics/javascript-cheat-sheet/)
+      - [JavaScript syntax ➔](/topics/javascript-syntax/)
+      - [JavaScript validator ➔](/topics/validators/#validating-javascript)
+      - [JavaScript cheat sheet ➔](/topics/javascript-cheat-sheet/)
 
 ---

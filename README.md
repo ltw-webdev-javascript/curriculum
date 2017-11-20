@@ -1,8 +1,8 @@
-# Javascript curriculum
+# JavaScript curriculum
 
-The weekly term materials, exercises & assignments for Algonquin Design’s Javascript course.
+The weekly term materials, exercises & assignments for Algonquin Design’s JavaScript course.
 
-### [☛ Javascript curriculum](https://learn-the-web.algonquindesign.ca/courses/javascript/)
+### [☛ JavaScript curriculum](https://learn-the-web.algonquindesign.ca/courses/javascript/)
 
 ---
 

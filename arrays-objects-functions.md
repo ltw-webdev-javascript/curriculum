@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
 title: "Arrays, objects & functions"
-desc: "A quick overview of how arrays, objects, and functions work within Javascript."
+desc: "A quick overview of how arrays, objects, and functions work within JavaScript."
 
 slides:
   - type: super-big-text
@@ -107,7 +107,7 @@ slides:
       document.write();
       ```
     notes: |
-      Let’s break down this Javascript piece of code. `document.write()` is built into the browser.
+      Let’s break down this JavaScript piece of code. `document.write()` is built into the browser.
 
       - `document` is an object — we know because it’s followed by a dot (`.`)
       - `write` is one of the items inside document
@@ -140,7 +140,7 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      - [Javascript syntax ➔](/topics/javascript-syntax/)
-      - [Javascript debugging ➔](/topics/javascript-debugging/)
+      - [JavaScript syntax ➔](/topics/javascript-syntax/)
+      - [JavaScript debugging ➔](/topics/javascript-debugging/)
 
 ---

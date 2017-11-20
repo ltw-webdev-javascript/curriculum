@@ -1,7 +1,10 @@
 ---
 layout: lesson
 title: "What’s yo name?"
-desc: "Watch some videos showing basic Javascript syntax and build a small name comparing program."
+desc: "Watch some videos showing basic JavaScript syntax and build a small name comparing program."
+
+markbot_submit: true
+hide_show_for_marks: true
 
 goal:
   image: "goal.png"
@@ -12,15 +15,15 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 extra_tutorials:
-  - title: "Javascript syntax"
+  - title: "JavaScript syntax"
     url: javascript-syntax
-  - title: "Javascript validator"
+  - title: "JavaScript validator"
     url: /topics/validators/#validating-javascript
-  - title: "Javascript cheat sheet"
+  - title: "JavaScript cheat sheet"
     url: javascript-cheat-sheet
     highlight: true
-  - title: "Javascript intro slide deck"
-    url: /courses/web-dev-4/javascript-intro/
+  - title: "JavaScript intro slide deck"
+    url: /courses/javascript/javascript-intro/
     highlight: true
 
 fork:
@@ -29,7 +32,7 @@ fork:
 steps:
   - title: "Set up project"
     before: |
-      Before we start writing any Javascript we need to have an HTML file set up. That’s where we’ll start.
+      Before we start writing any JavaScript we need to have an HTML file set up. That’s where we’ll start.
     folders:
       - label: "whats-yo-name"
         type: folder
@@ -49,9 +52,9 @@ steps:
       - label: "HTML snippets"
         text: "Create the boilerplate with `html5`, `viewport`"
 
-  - title: "Link the Javascript to the HTML"
+  - title: "Link the JavaScript to the HTML"
     before: |
-      At the bottom of the `index.html` file we need to connect the Javascript file.
+      At the bottom of the `index.html` file we need to connect the JavaScript file.
     code_lang: "html"
     code_file: "index.html"
     code: |
@@ -67,18 +70,18 @@ steps:
         fade: true
       - num: 5
         text: |
-          The `<script>` tag is used to connect a Javascript file to HTML.
+          The `<script>` tag is used to connect a JavaScript file to HTML.
 
           It should always go at the bottom for two reasons:
 
-          1. **Performance** — Javascript will stop rendering the page until the JS loads. Putting it at the bottom makes the load time appear faster because the page can be displayed first.
+          1. **Performance** — JavaScript will stop rendering the page until the JS loads. Putting it at the bottom makes the load time appear faster because the page can be displayed first.
           2. **HTML manipulation** — we want to manipulate HTML with our JS, but the HTML must be rendered to the screen before JS can do anything.
       - num: "6-7"
         fade: true
     after: |
-      **Javascript files are always connected at the bottom, right before the closing `</body>` tag.**
+      **JavaScript files are always connected at the bottom, right before the closing `</body>` tag.**
 
-  - title: "Write some Javascript!"
+  - title: "Write some JavaScript!"
     before: |
       These few lines of code will ask a user for their name and display a message based on what they type.
     code_lang: "js"
@@ -96,7 +99,7 @@ steps:
         text: |
           The variable `newName` will hold whatever someone types into the dialogue box.
 
-          The `prompt()` is a function built into Javascript that will display a dialogue people can type into.
+          The `prompt()` is a function built into JavaScript that will display a dialogue people can type into.
       - num: 3
         text: |
           The if-statement is going to compare the contents of `newName` against the string `'Thomas'`.
@@ -108,7 +111,7 @@ steps:
           A single equals `=` means set.
       - num: 4
         text: |
-          The `alert()` function is built into Javascript and will display a dialogue with some text.
+          The `alert()` function is built into JavaScript and will display a dialogue with some text.
     after: |
       Try it out in your browser. It should work great.
 

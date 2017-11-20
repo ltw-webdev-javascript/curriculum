@@ -3,8 +3,11 @@ layout: lesson
 title: "Waypoints + SVG"
 desc: "Watch a video that explains how to use waypoints then implement waypoints on a website with an SVG graphic."
 
+markbot_submit: true
+hide_show_for_marks: true
+
 extra_tutorials:
-  - title: "Javascript effects"
+  - title: "JavaScript effects"
     url: javascript-effects
     highlight: true
 
@@ -19,7 +22,7 @@ steps:
 
   - title: "Create a waypoints animation"
     before: |
-      Using the files in the forked & cloned repository, implement the necessary Javascript to make the waypoints work.
+      Using the files in the forked & cloned repository, implement the necessary JavaScript to make the waypoints work.
 
       **Make the prehistoric creatures be invisible by default then become visible when they scroll into view.**
 

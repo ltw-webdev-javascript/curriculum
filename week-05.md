@@ -1,10 +1,10 @@
 ---
-topic: "Javascript & accessibility"
-desc: "Look at how accessibility can be improved for Javascript functionality using ARIA."
+topic: "JavaScript & accessibility"
+desc: "Look at how accessibility can be improved for JavaScript functionality using ARIA."
 clr: "1, 2, 3, 4"
 
 video_tutorials:
-  - title: "Javascript & accessibility"
+  - title: "JavaScript & accessibility"
     url: javascript-accessibility
     videos: true
     highlight: true
@@ -16,7 +16,7 @@ video_tutorials:
     url: progressive-enhancement
 
 slides:
-  - title: "Javascript & accessibility"
+  - title: "JavaScript & accessibility"
     url: javascript-accessibility
 
 tasks:

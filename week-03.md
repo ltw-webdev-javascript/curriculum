@@ -1,6 +1,6 @@
 ---
-topic: "Javascript DOM"
-desc: "Explore how to interact with HTML using the document object model and combine CSS with Javascript."
+topic: "JavaScript DOM"
+desc: "Explore how to interact with HTML using the document object model and combine CSS with JavaScript."
 clr: "1, 3"
 
 video_tutorials:
@@ -9,7 +9,7 @@ video_tutorials:
     videos: true
     highlight: true
     notes: "Selecting HTML, manipulating classes and HTML"
-  - title: "Javascript cheat sheet"
+  - title: "JavaScript cheat sheet"
     url: javascript-cheat-sheet
 
 slides:
@@ -23,6 +23,7 @@ tasks:
   - title: "Working with jQuery"
     url: working-with-jquery
     type: lesson
+    submit: code
   - title: "JS ❤ CSS"
     url: "https://github.com/acgd-webdev-javascript/js-heart-css"
   - title: "HTML rearranger"

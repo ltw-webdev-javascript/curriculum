@@ -1,10 +1,10 @@
 ---
-topic: "Javascript + CSS + SVG"
-desc: "Use Javascript to trigger CSS & SVG effects like transition and animations."
+topic: "JavaScript + CSS + SVG"
+desc: "Use JavaScript to trigger CSS & SVG effects like transition and animations."
 clr: "1, 2, 3, 4"
 
 video_tutorials:
-  - title: "Javascript effects"
+  - title: "JavaScript effects"
     url: javascript-effects
     videos: true
     highlight: true
@@ -13,7 +13,7 @@ video_tutorials:
     url: svg-cheat-sheet
 
 slides:
-  - title: "Javascript effects"
+  - title: "JavaScript effects"
     url: javascript-effects
 
 tasks:
@@ -23,6 +23,7 @@ tasks:
   - title: "Bubble popper"
     url: bubble-popper
     type: lesson
+    submit: code
   - title: "Effect triggers"
     url: "https://github.com/acgd-webdev-javascript/effect-triggers"
   - title: "Retro sign"

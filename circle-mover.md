@@ -3,14 +3,17 @@ layout: lesson
 title: "Circle mover"
 desc: "Use jQuery & CSS to make a small application that will move a circle around the screen with up, down, left & right buttons."
 
+markbot_submit: true
+hide_show_for_marks: true
+
 extra_tutorials:
   - title: "Document object model"
     url: dom
     highlight: true
-  - title: "Javascript cheat sheet"
+  - title: "JavaScript cheat sheet"
     url: javascript-cheat-sheet
-  - title: "Javascript events slide deck"
-    url: /courses/web-dev-4/javascript-events/
+  - title: "JavaScript events slide deck"
+    url: "/courses/javascript/javascript-events/"
 
 fork:
   url: "https://github.com/acgd-webdev-javascript/circle-mover/fork"
@@ -79,7 +82,7 @@ steps:
       </html>
     lines:
       - num: 11
-        text: "The `<button>` tag should only be used for Javascript or forms—it **does not** link to other pages."
+        text: "The `<button>` tag should only be used for JavaScript or forms—it **does not** link to other pages."
       - num: 12
         text: "We’re going to use CSS to make this `<div>` look like a circle."
 
@@ -116,7 +119,7 @@ steps:
 
   - title: "Right button functionality"
     before: |
-      Now that we have all the HTML & CSS in place we can make the button work by adding a little Javascript.
+      Now that we have all the HTML & CSS in place we can make the button work by adding a little JavaScript.
     code_lang: js
     code_file: "js/main.js"
     code: |
@@ -154,10 +157,10 @@ steps:
       It’s time to finish of the rest of the functionality so the circle can move in all four directions.
 
       1. Create 3 new `<button>` tags in HTML: “Left”, “Up” & “Down”.
-      2. Write 3 new click events in Javascript to make the circle perform those functions.
+      2. Write 3 new click events in JavaScript to make the circle perform those functions.
 
   - title: "Bonus challenge"
     before: |
-      Use a CSS property we’ve learned before—no Javascript—to make the ball animate from position to position instead of just snapping.
+      Use a CSS property we’ve learned before—no JavaScript—to make the ball animate from position to position instead of just snapping.
 
 ---

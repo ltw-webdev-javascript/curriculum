@@ -1,17 +1,15 @@
 ---
 topic: "Responsive infographic"
-desc: "Plan, design & develop an respsonive, interactive infographic with animations, transitions and oodles of Javascript."
+desc: "Plan, design & develop an respsonive, interactive infographic with animations, transitions and oodles of JavaScript."
 clr: "1, 2, 3, 4, 5"
 
-last_week: true
-
 video_tutorials:
-  - title: "Javascript cheat sheet"
+  - title: "JavaScript cheat sheet"
     url: javascript-cheat-sheet
     highlight: true
-  - title: "Javascript checklist"
+  - title: "JavaScript checklist"
     url: javascript-checklist
-  - title: "Javascript & accessibility"
+  - title: "JavaScript & accessibility"
     url: javascript-accessibility
     highlight: true
   - title: "Browser testing checklist"
@@ -25,7 +23,7 @@ video_tutorials:
     highlight: true
 
 tasks:
-  - title: "Javascript Journeyer"
+  - title: "JavaScript Journeyer"
     url: "https://activities.learn-the-web.algonquindesign.ca/javascript-journeyer/"
     type: activity
   - title: "Responsive infographic paper plan"

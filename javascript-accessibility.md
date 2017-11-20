@@ -1,15 +1,15 @@
 ---
 layout: slide-deck
-title: "Javascript accessibility"
-desc: "Describing accessibility considerations for Javascript functionality within websites."
+title: "JavaScript accessibility"
+desc: "Describing accessibility considerations for JavaScript functionality within websites."
 
 slides:
   - type: super-big-text
     content: |
-      **Javascript accessibility**
+      **JavaScript accessibility**
 
   - content: |
-      ## Javascript isn’t inaccessible
+      ## JavaScript isn’t inaccessible
 
       But if you’re not careful you can create some horribly inaccessible solutions
 
@@ -31,9 +31,9 @@ slides:
   - content: |
       ## ARIA can help
 
-      ARIA, the accessibility standard is targeted at Javascript applications
+      ARIA, the accessibility standard is targeted at JavaScript applications
 
-      Adding ARIA roles & states to elements with Javascript helps accessibility tools understand the purpose
+      Adding ARIA roles & states to elements with JavaScript helps accessibility tools understand the purpose
     notes: |
       ### Helpful links
 
@@ -124,7 +124,7 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      - [Javascript & accessibility ➔](/topics/javascript-accessibility/)
+      - [JavaScript & accessibility ➔](/topics/javascript-accessibility/)
       - [Accessibility ➔](/topics/accessibility/)
       - [Accessibility checklist ➔](/topics/accessibility-checklist/)
       - [Progressive enhancement ➔](/topics/progressive-enhancement/)

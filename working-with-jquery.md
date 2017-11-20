@@ -1,12 +1,15 @@
 ---
 layout: lesson
 title: "Working with jQuery"
-desc: "Use jQuery to simplify manipulating HTML while building a list of dinosaurs in Javascript."
+desc: "Use jQuery to simplify manipulating HTML while building a list of dinosaurs in JavaScript."
+
+markbot_submit: true
+hide_show_for_marks: true
 
 video: "7KqJgg7p8UQ"
 
 goal:
-  before: "We’re going to look at how to use jQuery to change how we work with HTML in Javascript."
+  before: "We’re going to look at how to use jQuery to change how we work with HTML in JavaScript."
   notes:
     - label: "Type it, type it real good"
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
@@ -18,10 +21,10 @@ extra_tutorials:
   - title: "Document object model"
     url: dom
     highlight: true
-  - title: "Javascript cheat sheet"
+  - title: "JavaScript cheat sheet"
     url: javascript-cheat-sheet
   - title: "jQuery introduction slide deck"
-    url: jquery-introduction
+    url: "/courses/javascript/jquery-introduction/"
 
 steps:
   - title: "Set up project"
@@ -93,7 +96,7 @@ steps:
       </html>
     lines:
       - num: "11-14"
-        text: "We’re going to manipulate these HTML tags in our Javascript."
+        text: "We’re going to manipulate these HTML tags in our JavaScript."
 
   - title: "Connect jQuery"
     before: |
@@ -149,9 +152,9 @@ steps:
         }
       ];
 
-  - title: "Write some HTML manipulating Javascript"
+  - title: "Write some HTML manipulating JavaScript"
     before: |
-      We don’t need jQuery to manipulate our HTML with Javascript—jQuery just provides a simplified interface for common tasks.
+      We don’t need jQuery to manipulate our HTML with JavaScript—jQuery just provides a simplified interface for common tasks.
     code_lang: javascript
     code_file: "js/main.js"
     code: |
@@ -165,7 +168,7 @@ steps:
     lines:
       - num: "1-2"
         text: |
-          Javascript uses CSS selectors to choose things in the page.
+          JavaScript uses CSS selectors to choose things in the page.
 
           In between the `()` is the CSS selector: we can use tags, classes, IDs, `:first-child`, whatever.
 
@@ -249,7 +252,7 @@ steps:
           - `before()` — 
       - num: 17
         text: |
-          Up until this line the dinosaur won’t even be visible on the screen. We created new HTML elements, but they only existed in the Javascript. This line will add them to the HTML tag that’s already in our `index.html` file.
+          Up until this line the dinosaur won’t even be visible on the screen. We created new HTML elements, but they only existed in the JavaScript. This line will add them to the HTML tag that’s already in our `index.html` file.
 
   - title: "Style it up"
     before: |
@@ -285,6 +288,6 @@ steps:
         fade: true
       - num: 6
         text: |
-          The `.dino-list` class doesn’t exist anywhere in our HTML, we added it to the `<ul>` using Javascript, with this line: `$ul.addClass('dino-list');`
+          The `.dino-list` class doesn’t exist anywhere in our HTML, we added it to the `<ul>` using JavaScript, with this line: `$ul.addClass('dino-list');`
 
 ---

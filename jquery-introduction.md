@@ -1,7 +1,7 @@
 ---
 layout: slide-deck
 title: "jQuery introduction"
-desc: "A quick introduction to jQuery and how it works within Javascript while simplifying writing some code."
+desc: "A quick introduction to jQuery and how it works within JavaScript while simplifying writing some code."
 
 slides:
   - type: super-big-text
@@ -9,7 +9,7 @@ slides:
       **jQuery introduction**
 
   - content: |
-      ## jQuery is Javascript
+      ## jQuery is JavaScript
 
       - Simplifies the interface to HTML
       - Provides a bunch of already made functionality
@@ -43,7 +43,7 @@ slides:
   - content: |
       ## Based around CSS selectors
 
-      jQuery (and Javascript) use CSS selectors to grab things in HTML
+      jQuery (and JavaScript) use CSS selectors to grab things in HTML
 
       - `ul`, `h1`, `div`
       - `.dino-list`, `.bones`
@@ -99,6 +99,6 @@ slides:
       ## Videos & tutorials
 
       - [Document object model ➔](/topics/dom/)
-      - [Javascript cheat sheet ➔](/topics/javascript-cheat-sheet/)
+      - [JavaScript cheat sheet ➔](/topics/javascript-cheat-sheet/)
 
 ---

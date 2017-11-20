@@ -4,7 +4,7 @@ title: "Smooth scrolling navigation"
 desc: "Watch a video that explains how to use smooth scrolling then implement it on a pre-made website navigation."
 
 extra_tutorials:
-  - title: "Javascript effects"
+  - title: "JavaScript effects"
     url: javascript-effects
     highlight: true
 
@@ -19,7 +19,7 @@ steps:
 
   - title: "Create a smooth scrolling navigation"
     before: |
-      Using the files in the forked & cloned repository, implement the necessary Javascript to make it smooth scroll.
+      Using the files in the forked & cloned repository, implement the necessary JavaScript to make it smooth scroll.
 
       **Make the navigation smooth scroll down the page to the appropriate sections.**
 

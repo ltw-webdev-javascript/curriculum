@@ -1,18 +1,18 @@
 ---
 layout: slide-deck
-title: "Javascript effects"
-desc: "How to apply animations and effects to websites using a combination of Javascript and CSS."
+title: "JavaScript effects"
+desc: "How to apply animations and effects to websites using a combination of JavaScript and CSS."
 
 slides:
   - type: super-big-text
     content: |
-      **Javascript effects**
+      **JavaScript effects**
 
   - content: |
       ## JS doesn’t do effects—CSS does
 
       - All the effects we see are created by CSS
-      - Javascript has no concept of animations—it’s all CSS
+      - JavaScript has no concept of animations—it’s all CSS
       - We trigger CSS into action with JS
     notes: |
       That’s not entirely true, just simplified. JS can do effects with the `<canvas>` tag: it’ll do full 2D & 3D graphics and interactions.
@@ -20,7 +20,7 @@ slides:
   - content: |
       ## Trigger with classes
 
-      1. Javascript will add a class to an element
+      1. JavaScript will add a class to an element
       2. The class will have associated CSS
       3. That `animation` or `transition` will be triggered
 
@@ -69,9 +69,9 @@ slides:
     css_lines:
       - num: 5
         text: |
-          The `.is-clicked` class doesn’t exist anywhere in our HTML—it’s added by the Javascript code.
+          The `.is-clicked` class doesn’t exist anywhere in our HTML—it’s added by the JavaScript code.
 
-          It’s a fairly common convention to prefix the classes with `is-` or `js-` to denote that Javascript is the thing that is affecting this class.
+          It’s a fairly common convention to prefix the classes with `is-` or `js-` to denote that JavaScript is the thing that is affecting this class.
     css_hidden: |
       div {
         height: 200px;
@@ -154,5 +154,5 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      - [Javascript effects ➔](/topics/javascript-effects/)
+      - [JavaScript effects ➔](/topics/javascript-effects/)
 ---

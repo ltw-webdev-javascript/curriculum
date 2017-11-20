@@ -9,9 +9,9 @@ slides:
       **jQuery plugins**
 
   - content: |
-      ## Pre-written Javascript
+      ## Pre-written JavaScript
 
-      There are lots of pre-written Javascript code bits out there (in the nebulous web)
+      There are lots of pre-written JavaScript code bits out there (in the nebulous web)
 
       Quite a popular segment is jQuery plugins: new features added to jQuery
     notes: |
@@ -36,7 +36,7 @@ slides:
 
       1. jQuery
       2. The plugin
-      3. Your Javascript file
+      3. Your JavaScript file
 
   - type: code
     html: |
@@ -54,7 +54,7 @@ slides:
 
       1. jQuery—first
       2. The plugin—second
-      3. Your Javascript file—last
+      3. Your JavaScript file—last
 
   - content: |
       ## Starting the plugin
@@ -76,5 +76,5 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      - [Javascript effects ➔](/topics/javascript-effects/)
+      - [JavaScript effects ➔](/topics/javascript-effects/)
 ---

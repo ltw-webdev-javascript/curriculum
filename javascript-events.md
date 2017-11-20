@@ -1,17 +1,17 @@
 ---
 layout: slide-deck
-title: "Javascript events"
-desc: "A quick overview of events in Javascript, what they are, how they’re triggered, and how to write code that listens to events."
+title: "JavaScript events"
+desc: "A quick overview of events in JavaScript, what they are, how they’re triggered, and how to write code that listens to events."
 
 slides:
   - type: super-big-text
     content: |
-      **Javascript events**
+      **JavaScript events**
 
   - content: |
       ## It’s all eventful
 
-      Much of what we want to do with Javascript is wait for users to interact
+      Much of what we want to do with JavaScript is wait for users to interact
 
       That user interaction is called an “event”
 
@@ -107,7 +107,7 @@ slides:
         text: |
           Since the element that’s being clicked on is an `<a>` tag, we know that it has some default functionality. The `<a>` tags purpose is to direct a user to another page.
 
-          When we write Javascript, we have complete control over everything. By using `e.preventDefault()` we can stop the link from doing what it normally does and instead do what we want.
+          When we write JavaScript, we have complete control over everything. By using `e.preventDefault()` we can stop the link from doing what it normally does and instead do what we want.
     js_hidden: |
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
@@ -144,6 +144,6 @@ slides:
       ## Videos & tutorials
 
       - [Document object model ➔](/topics/dom/)
-      - [Javascript cheat sheet ➔](/topics/javascript-cheat-sheet/)
+      - [JavaScript cheat sheet ➔](/topics/javascript-cheat-sheet/)
 
 ---

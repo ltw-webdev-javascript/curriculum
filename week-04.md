@@ -1,6 +1,6 @@
 ---
-topic: "Javascript events"
-desc: "Learn how to write Javascript code that responds to user generated events like clicks and key presses."
+topic: "JavaScript events"
+desc: "Learn how to write JavaScript code that responds to user generated events like clicks and key presses."
 clr: "1, 3"
 
 video_tutorials:
@@ -8,11 +8,11 @@ video_tutorials:
     url: dom
     highlight: true
     notes: "Listening to events, form data"
-  - title: "Javascript cheat sheet"
+  - title: "JavaScript cheat sheet"
     url: javascript-cheat-sheet
 
 slides:
-  - title: "Javascript events"
+  - title: "JavaScript events"
     url: javascript-events
 
 tasks:
@@ -22,6 +22,7 @@ tasks:
   - title: "Circle mover"
     url: circle-mover
     type: lesson
+    submit: code
   - title: "Circle maker"
     url: "https://github.com/acgd-webdev-javascript/circle-maker"
   - title: "Circle colourer"

@@ -1,17 +1,20 @@
 ---
 layout: lesson
 title: "Contact list generator"
-desc: "Use Javascript to create a data structure representing contact information and display it on the page."
+desc: "Use JavaScript to create a data structure representing contact information and display it on the page."
+
+markbot_submit: true
+hide_show_for_marks: true
 
 extra_tutorials:
-  - title: "Javascript syntax"
+  - title: "JavaScript syntax"
     url: javascript-syntax
-  - title: "Javascript debugging"
+  - title: "JavaScript debugging"
     url: javascript-debugging
     highlight: true
-  - title: "Javascript validator"
+  - title: "JavaScript validator"
     url: /topics/validators/#validating-javascript
-  - title: "Javascript cheat sheet"
+  - title: "JavaScript cheat sheet"
     url: javascript-cheat-sheet
     highlight: true
 
@@ -50,9 +53,9 @@ steps:
       - label: "HTML snippets"
         text: "Create the boilerplate with `html5` & `viewport`"
 
-  - title: "Connect the Javascript files"
+  - title: "Connect the JavaScript files"
     before: |
-      We can connect as many Javascript files to our website as we want. *But, just as CSS, the more there are the slower your website.*
+      We can connect as many JavaScript files to our website as we want. *But, just as CSS, the more there are the slower your website.*
     code_file: "index.html"
     code_lang: html
     code: |
@@ -69,7 +72,7 @@ steps:
         fade: true
       - num: "5-6"
         text: |
-          Everything we write in one Javascript file is usable in the other file. The order is important.
+          Everything we write in one JavaScript file is usable in the other file. The order is important.
       - num: "7-8"
         fade: true
     notes:
@@ -160,7 +163,7 @@ steps:
         text: "We’ll use `document.write()` to create an `<h1>` tag in our website."
       - num: 5
         text: |
-          The `forEach` loop is a special kind of loop that will iterate over every single item in an array. With this loop we don’t need to know how many times to loop—Javascript just does it.
+          The `forEach` loop is a special kind of loop that will iterate over every single item in an array. With this loop we don’t need to know how many times to loop—JavaScript just does it.
 
           Notice that we pass in a `function()` to the loop. This function will be executed on every item in the array. The current array item will be saved into the functions first argument—here it’s called it `item`
       - num: 6
@@ -219,7 +222,7 @@ steps:
 
           1. Write `'<dd><a href="mailto:"></a></dd>'`
           2. Add plusses and quotes between each changeable: `'<dd><a href="mailto:' + + '">' + + '</a></dd>'`
-          3. Then finally fill in the Javascript variable names in between the double plusses.
+          3. Then finally fill in the JavaScript variable names in between the double plusses.
       - num: 10
         text: "Finally end the `<dl>` tag by writing the closing HTML tag."
       - num: "11-12"
