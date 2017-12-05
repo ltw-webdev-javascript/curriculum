@@ -9,8 +9,8 @@ video_tutorials:
     highlight: true
   - title: "JavaScript checklist"
     url: javascript-checklist
-  - title: "JavaScript & accessibility"
-    url: javascript-accessibility
+  - title: "JavaScript, jQuery & accessibility"
+    url: javascript-jquery-accessibility
     highlight: true
   - title: "Browser testing checklist"
     url: browser-testing-checklist

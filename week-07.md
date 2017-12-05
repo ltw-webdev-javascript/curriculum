@@ -4,8 +4,8 @@ desc: "Look at using some common jQuery plugins including smooth scroll & waypoi
 clr: "1, 2, 3, 4, 5"
 
 video_tutorials:
-  - title: "JavaScript effects"
-    url: javascript-effects
+  - title: "JavaScript + jQuery effects"
+    url: javascript-jquery-effects
     highlight: true
     notes: "Smooth scroll, scrolling animations"
 
@@ -21,11 +21,11 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/document-defeater/"
     type: activity
   - title: "Waypoints + SVG"
-    url: waypoints-svg
+    url: jquery-waypoints-svg
     type: lesson
     submit: code
   - title: "Smooth scrolling navigation"
-    url: smooth-scrolling-navigation
+    url: jquery-smooth-scrolling-navigation
     type: lesson
   - title: "Parallax, schmarallax"
 ---

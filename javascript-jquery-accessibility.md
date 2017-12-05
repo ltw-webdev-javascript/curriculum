@@ -1,12 +1,12 @@
 ---
 layout: slide-deck
-title: "JavaScript accessibility"
+title: "JavaScript + jQuery accessibility"
 desc: "Describing accessibility considerations for JavaScript functionality within websites."
 
 slides:
   - type: super-big-text
     content: |
-      **JavaScript accessibility**
+      **JavaScript + jQuery accessibility**
 
   - content: |
       ## JavaScript isn’t inaccessible
@@ -124,7 +124,7 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      - [JavaScript & accessibility ➔](/topics/javascript-accessibility/)
+      - [JavaScript, jQuery & accessibility ➔](/topics/javascript-jquery-accessibility/)
       - [Accessibility ➔](/topics/accessibility/)
       - [Accessibility checklist ➔](/topics/accessibility-checklist/)
       - [Progressive enhancement ➔](/topics/progressive-enhancement/)

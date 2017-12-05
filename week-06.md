@@ -4,8 +4,8 @@ desc: "Use JavaScript to trigger CSS & SVG effects like transition and animation
 clr: "1, 2, 3, 4"
 
 video_tutorials:
-  - title: "JavaScript effects"
-    url: javascript-effects
+  - title: "JavaScript + jQuery effects"
+    url: javascript-jquery-effects
     videos: true
     highlight: true
     notes: "Triggering CSS animations, manipulating SVG"
@@ -13,8 +13,8 @@ video_tutorials:
     url: svg-cheat-sheet
 
 slides:
-  - title: "JavaScript effects"
-    url: javascript-effects
+  - title: "JavaScript + jQuery effects"
+    url: javascript-jquery-effects
 
 tasks:
   - title: "ARIA Activist"

@@ -12,8 +12,8 @@ extra_tutorials:
     highlight: true
   - title: "JavaScript cheat sheet"
     url: javascript-cheat-sheet
-  - title: "JavaScript events slide deck"
-    url: "/courses/javascript/javascript-events/"
+  - title: "JavaScript +jQuery events slide deck"
+    url: "/courses/javascript/javascript-jquery-events/"
 
 fork:
   url: "https://github.com/acgd-webdev-javascript/circle-mover/fork"

@@ -7,12 +7,12 @@ markbot_submit: true
 hide_show_for_marks: true
 
 extra_tutorials:
-  - title: "JavaScript effects"
-    url: javascript-effects
+  - title: "JavaScript + jQuery effects"
+    url: javascript-jquery-effects
   - title: "JavaScript cheat sheet"
     url: javascript-cheat-sheet
-  - title: "JavaScript effects slide deck"
-    url: "/courses/javascript/javascript-effects/"
+  - title: "JavaScript + jQuery effects slide deck"
+    url: "/courses/javascript/javascript-jquery-effects/"
 
 goal:
   before: "We’ll have a fully functional application that—when the space key is pressed—makes a random, poppable bubble."

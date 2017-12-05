@@ -4,12 +4,12 @@ title: "Smooth scrolling navigation"
 desc: "Watch a video that explains how to use smooth scrolling then implement it on a pre-made website navigation."
 
 extra_tutorials:
-  - title: "JavaScript effects"
-    url: javascript-effects
+  - title: "JavaScript + jQuery effects"
+    url: javascript-jquery-effects
     highlight: true
 
 fork:
-  url: "https://github.com/acgd-webdev-javascript/smooth-scrolling-navigation/fork"
+  url: "https://github.com/acgd-webdev-javascript/jquery-smooth-scrolling-navigation/fork"
 
 steps:
   - title: "Using smooth scrolling"

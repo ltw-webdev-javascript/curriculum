@@ -7,12 +7,12 @@ markbot_submit: true
 hide_show_for_marks: true
 
 extra_tutorials:
-  - title: "JavaScript effects"
-    url: javascript-effects
+  - title: "JavaScript + jQuery effects"
+    url: javascript-jquery-effects
     highlight: true
 
 fork:
-  url: "https://github.com/acgd-webdev-javascript/waypoints-svg/fork"
+  url: "https://github.com/acgd-webdev-javascript/jquery-waypoints-svg/fork"
 
 steps:
   - title: "Using waypoints"

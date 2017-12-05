@@ -1,11 +1,11 @@
 ---
-topic: "JavaScript & accessibility"
+topic: "JavaScript, jQuery & accessibility"
 desc: "Look at how accessibility can be improved for JavaScript functionality using ARIA."
 clr: "1, 2, 3, 4"
 
 video_tutorials:
-  - title: "JavaScript & accessibility"
-    url: javascript-accessibility
+  - title: "JavaScript, jQuery & accessibility"
+    url: javascript-jquery-accessibility
     videos: true
     highlight: true
   - title: "Accessibility"
@@ -16,8 +16,8 @@ video_tutorials:
     url: progressive-enhancement
 
 slides:
-  - title: "JavaScript & accessibility"
-    url: javascript-accessibility
+  - title: "JavaScript, jQuery & accessibility"
+    url: javascript-jquery-accessibility
 
 tasks:
   - title: "Prodigious Picker"

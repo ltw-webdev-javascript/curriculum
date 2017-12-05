@@ -12,8 +12,8 @@ video_tutorials:
     url: javascript-cheat-sheet
 
 slides:
-  - title: "JavaScript events"
-    url: javascript-events
+  - title: "JavaScript + jQuery events"
+    url: javascript-jquery-events
 
 tasks:
   - title: "Bug Basher"

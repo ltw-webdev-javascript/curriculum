@@ -76,5 +76,5 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      - [JavaScript effects ➔](/topics/javascript-effects/)
+      - [JavaScript + jQuery effects ➔](/topics/javascript-jquery-effects/)
 ---

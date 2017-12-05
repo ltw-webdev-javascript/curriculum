@@ -1,12 +1,12 @@
 ---
 layout: slide-deck
-title: "JavaScript effects"
+title: "JavaScript + jQuery effects"
 desc: "How to apply animations and effects to websites using a combination of JavaScript and CSS."
 
 slides:
   - type: super-big-text
     content: |
-      **JavaScript effects**
+      **JavaScript + jQuery effects**
 
   - content: |
       ## JS doesn’t do effects—CSS does
@@ -154,5 +154,5 @@ slides:
   - content: |
       ## Videos & tutorials
 
-      - [JavaScript effects ➔](/topics/javascript-effects/)
+      - [JavaScript + jQuery effects ➔](/topics/javascript-jquery-effects/)
 ---
