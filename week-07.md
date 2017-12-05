@@ -20,11 +20,11 @@ tasks:
   - title: "Document Defeater"
     url: "https://activities.learn-the-web.algonquindesign.ca/document-defeater/"
     type: activity
-  - title: "Waypoints + SVG"
+  - title: "jQuery waypoints + SVG"
     url: jquery-waypoints-svg
     type: lesson
     submit: code
-  - title: "Smooth scrolling navigation"
+  - title: "jQuery smooth scrolling navigation"
     url: jquery-smooth-scrolling-navigation
     type: lesson
   - title: "Parallax, schmarallax"
