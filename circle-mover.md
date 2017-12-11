@@ -12,7 +12,7 @@ extra_tutorials:
     highlight: true
   - title: "JavaScript cheat sheet"
     url: javascript-cheat-sheet
-  - title: "JavaScript +jQuery events slide deck"
+  - title: "JavaScript + jQuery events slide deck"
     url: "/courses/javascript/javascript-jquery-events/"
 
 fork:
