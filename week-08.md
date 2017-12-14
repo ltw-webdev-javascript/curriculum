@@ -34,13 +34,13 @@ tasks:
     url: "https://github.com/acgd-webdev-javascript/responsive-infographic"
     graded-as: infographic
   - title: "Browser testing"
-    url: "/courses/web-dev-1/browser-testing/"
+    url: "/courses/shared/browser-testing/"
     submit: "Submit nothing."
     pair: true
     button: activity
     type: basic
   - title: "Accessibility testing"
-    url: "/courses/web-dev-2/accessibility-testing/"
+    url: "/courses/shared/accessibility-testing/"
     submit: "Submit nothing."
     pair: true
     button: activity
