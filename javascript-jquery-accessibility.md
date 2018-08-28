@@ -126,6 +126,7 @@ slides:
 
       - [JavaScript, jQuery & accessibility ➔](/topics/javascript-jquery-accessibility/)
       - [Accessibility ➔](/topics/accessibility/)
+      - [Accessibility cheat sheet ➔](/topics/accessibility-cheat-sheet/)
       - [Accessibility checklist ➔](/topics/accessibility-checklist/)
       - [Progressive enhancement ➔](/topics/progressive-enhancement/)
 
