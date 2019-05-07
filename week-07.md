@@ -28,4 +28,6 @@ tasks:
     url: jquery-smooth-scrolling-navigation
     type: lesson
   - title: "Parallax, schmarallax"
+    disabled: true
+    url: "https://github.com/acgd-webdev-javascript/parallax-schmarallax"
 ---

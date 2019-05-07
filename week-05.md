@@ -30,7 +30,13 @@ tasks:
     url: "https://activities.learn-the-web.algonquindesign.ca/spacing-superstar/"
     type: activity
   - title: "Implementing ARIA"
+    url: implementing-aria
     type: lesson
+    disabled: true
   - title: "ARIA ready?"
+    url: "https://github.com/acgd-webdev-javascript/aria-ready"
+    disabled: true
   - title: "It’s more than just mice"
+    url: "https://github.com/acgd-webdev-javascript/its-more-than-just-mice"
+    disabled: true
 ---
