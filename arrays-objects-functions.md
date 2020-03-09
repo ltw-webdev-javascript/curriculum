@@ -25,15 +25,15 @@ slides:
     js: |
       var trees = ['Maple', 'Oak', 'Birch', 'Pine'];  // Square brackets
 
-      console.log(trees[0]);                          // Get the first item
-      document.write('<h1>' + trees[2] + '</h1>');    // Put the third item into an <h1>
+      console.log(trees[0]);                     // Get the first item
+      document.write(`<h1>${trees[2]}</h1>`);    // Put the third item into an <h1>
 
-      trees.push('Spruce');                           // Add a new item
-      console.log(trees.length);                      // Count the number of items
+      trees.push('Spruce');                      // Add a new item
+      console.log(trees.length);                 // Count the number of items
 
       document.write('<ul>');
-      trees.forEach(function (item) {                 // Loop over every item in array
-        document.write('<li>' + item + '</li>');
+      trees.forEach(function (item) {            // Loop over every item in array
+        document.write(`<li>${item}</li>`);
       });
       document.write('</ul>');
 
@@ -68,7 +68,7 @@ slides:
       document.write(latLong.longitude);              // Get the `longitude` item
 
       // Write a sentence using the second object in the array
-      console.log('The ' + dinos[1].name ' is a feathered ' + dinos[1].diet + '.');
+      console.log(`The ${dinos[1].name} is a feathered ${dinos[1].diet}.`);
 
   - content: |
       ## Functions
@@ -88,11 +88,11 @@ slides:
       };
 
       var writeH1 = function (text) {                 // Accepts an argument
-        document.write('<h1>' + text + '</h1>');
+        document.write(`<h1>${text}</h1>`);
       };
 
       var getImg = function (src, alt) {              // Accepts two arguments and returns
-        return '<img src="' + src + '" alt="' + alt + '">';
+        return `<img src="${src}" alt="${alt}">`;
       }
 
       sayHello();
@@ -142,5 +142,4 @@ slides:
 
       - [JavaScript syntax ➔](/topics/javascript-syntax/)
       - [JavaScript debugging ➔](/topics/javascript-debugging/)
-
 ---

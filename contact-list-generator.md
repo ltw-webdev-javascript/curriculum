@@ -149,7 +149,7 @@ steps:
         document.write('<h1>Planetary peeps</h1>');
 
         contacts.forEach(function (item) {
-          document.write('<h2>' + item.name + '</h2>');
+          document.write(`<h2>${item.name}</h2>`);
           // More stuff going in here later
         });
       };
@@ -199,9 +199,9 @@ steps:
           document.write('<h2>' + item.name + '</h2>');
           document.write('<dl>');
           document.write('<dt>E-mail address</dt>');
-          document.write('<dd><a href="mailto:' + item.email + '">' + item.email + '</a></dd>');
+          document.write(`<dd><a href="mailto:${item.email}">${item.email}</a></dd>`);
           document.write('<dt>Phone number</dt>');
-          document.write('<dd><a href="tel:' + item.tel + '">' + item.tel + '</a></dd>');
+          document.write(`<dd><a href="tel:${item.tel}">${item.tel}</a></dd>`);
           // More stuff to come here
           document.write('</dl>');
         });
@@ -216,13 +216,7 @@ steps:
         text: "Write out a `<dt>` tag to before we get to the actual data."
       - num: 6
         text: |
-          Write out `<dd>` and `<a>` tags by using the `+` to concatenate a bunch of things together.
-
-          **I often find this easier to write the HTML first then break it apart with the `+` character.**
-
-          1. Write `'<dd><a href="mailto:"></a></dd>'`
-          2. Add plusses and quotes between each changeable: `'<dd><a href="mailto:' + + '">' + + '</a></dd>'`
-          3. Then finally fill in the JavaScript variable names in between the double plusses.
+          Write out `<dd>` and `<a>` tags by using the `` ` `` to concatenate a bunch of things together. Inside the interpolated string use `${}` to surround variables.
       - num: 10
         text: "Finally end the `<dl>` tag by writing the closing HTML tag."
       - num: "11-12"
@@ -240,9 +234,9 @@ steps:
     code: |
       ⋮
           document.write('<dt>Phone number</dt>');
-          document.write('<dd><a href="tel:' + item.tel + '">' + item.tel + '</a></dd>');
+          document.write(`<dd><a href="tel:${item.tel}">${item.tel}</a></dd>`);
           document.write('<dt>Location</dt>');
-          document.write('<dd>Between ' + item.loc[0] + ' km & ' + item.loc[1] + ' km from the Sun.</dd>');
+          document.write(`<dd>Between ${item.loc[0]} km & ${item.loc[1]} km from the Sun.</dd>`);
           document.write('</dl>');
         });
       };
@@ -271,5 +265,4 @@ steps:
       There’s a motto in programming: **Keep things DRY**. As in “Don’t Repeat Yourself”. *If you have to copy and paste you’re doing something wrong.*
 
       **Go into the `contacts.js` file and add a new contact at the bottom.** When you refresh your HTML page a new entry should magically appear.
-
 ---
