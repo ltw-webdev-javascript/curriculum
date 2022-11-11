@@ -109,9 +109,9 @@ slides:
     notes: |
       Let’s break down this JavaScript piece of code. `document.write()` is built into the browser.
 
-      - `document` is an object — we know because it’s followed by a dot (`.`)
+      - `document` is an object — we know because it’s followed by a dot (`.`)
       - `write` is one of the items inside document
-      - `write()` is a function — we know because it’s followed by two round brackets (`()`)
+      - `write()` is a function — we know because it’s followed by two round brackets (`()`)
 
   - type: code
     js: |
@@ -131,7 +131,7 @@ slides:
   - content: |
       ## Where are they used?
 
-      - **Arrays** — getting HTML elements
+      - **Arrays** — getting HTML elements
       - **Objects** — each single HTML element
       - **Functions** — whenever a user clicks
     notes: |

@@ -15,10 +15,10 @@ slides:
 
 tasks:
   - title: "Bracket Bamboozler"
-    url: "https://activities.learn-the-web.algonquindesign.ca/bracket-bamboozler/"
+    url: "https://activities.learntheweb.courses/bracket-bamboozler/"
     type: activity
   - title: "Document Defeater"
-    url: "https://activities.learn-the-web.algonquindesign.ca/document-defeater/"
+    url: "https://activities.learntheweb.courses/document-defeater/"
     type: activity
   - title: "jQuery waypoints + SVG"
     url: jquery-waypoints-svg
@@ -29,5 +29,5 @@ tasks:
     type: lesson
   - title: "Parallax, schmarallax"
     disabled: true
-    url: "https://github.com/acgd-webdev-javascript/parallax-schmarallax"
+    url: "https://github.com/ltw-webdev-javascript/parallax-schmarallax"
 ---

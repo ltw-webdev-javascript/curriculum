@@ -22,16 +22,16 @@ slides:
 
 tasks:
   - title: "Logic Luminary"
-    url: "https://activities.learn-the-web.algonquindesign.ca/logic-luminary/"
+    url: "https://activities.learntheweb.courses/logic-luminary/"
     type: activity
   - title: "Contact list generator"
     url: contact-list-generator
     type: lesson
     submit: code
   - title: "Hidden message fixer"
-    url: "https://github.com/acgd-webdev-javascript/hidden-message-fixer"
+    url: "https://github.com/ltw-webdev-javascript/hidden-message-fixer"
   - title: "Insect injector"
-    url: "https://github.com/acgd-webdev-javascript/insect-injector"
+    url: "https://github.com/ltw-webdev-javascript/insect-injector"
   - title: "Berry blobber"
-    url: "https://github.com/acgd-webdev-javascript/berry-blobber"
+    url: "https://github.com/ltw-webdev-javascript/berry-blobber"
 ---

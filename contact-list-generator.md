@@ -25,7 +25,7 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-javascript/contact-list-generator/fork"
+  url: "https://github.com/ltw-webdev-javascript/contact-list-generator/fork"
 
 steps:
   - title: "Set up project"

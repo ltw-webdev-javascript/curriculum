@@ -41,18 +41,18 @@ slides:
 
       - `variable` — a box that holds something
 
-      - `if-statement` — branches our code 1 of 2 ways
+      - `if-statement` — branches our code 1 of 2 ways
 
-      - `loop` — repeats our code a number of time
+      - `loop` — repeats our code a number of time
 
-      - `switch` — multiple branches
+      - `switch` — multiple branches
 
   - content: |
       ## Variable contents
 
       - `string` — just some text, surrounded in ''
       - `number` — just a number, no quotes
-      - `boolean` — `true` or `false`
+      - `boolean` — `true` or `false`
       - `array` — a collection, like `<ol>`
       - `object` — a named collection, like `<dl>`
       - `function` — a piece of re-usable code

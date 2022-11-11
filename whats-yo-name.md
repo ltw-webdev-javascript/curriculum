@@ -27,7 +27,7 @@ extra_tutorials:
     highlight: true
 
 fork:
-  url: "https://github.com/acgd-webdev-javascript/whats-yo-name/fork"
+  url: "https://github.com/ltw-webdev-javascript/whats-yo-name/fork"
 
 steps:
   - title: "Set up project"

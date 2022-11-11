@@ -9,7 +9,7 @@ extra_tutorials:
     highlight: true
 
 fork:
-  url: "https://github.com/acgd-webdev-javascript/jquery-smooth-scrolling-navigation/fork"
+  url: "https://github.com/ltw-webdev-javascript/jquery-smooth-scrolling-navigation/fork"
 
 steps:
   - title: "Using smooth scrolling"

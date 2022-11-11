@@ -18,16 +18,16 @@ slides:
 
 tasks:
   - title: "Loop Lancer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/loop-lancer/"
+    url: "https://activities.learntheweb.courses/loop-lancer/"
     type: activity
   - title: "Working with jQuery"
     url: working-with-jquery
     type: lesson
     submit: code
   - title: "JS ❤ CSS"
-    url: "https://github.com/acgd-webdev-javascript/js-heart-css"
+    url: "https://github.com/ltw-webdev-javascript/js-heart-css"
   - title: "HTML rearranger"
-    url: "https://github.com/acgd-webdev-javascript/html-rearranger"
+    url: "https://github.com/ltw-webdev-javascript/html-rearranger"
   - title: "Grain globber"
-    url: "https://github.com/acgd-webdev-javascript/grain-globber"
+    url: "https://github.com/ltw-webdev-javascript/grain-globber"
 ---

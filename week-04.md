@@ -17,16 +17,16 @@ slides:
 
 tasks:
   - title: "Bug Basher"
-    url: "https://activities.learn-the-web.algonquindesign.ca/bug-basher/"
+    url: "https://activities.learntheweb.courses/bug-basher/"
     type: activity
   - title: "Circle mover"
     url: circle-mover
     type: lesson
     submit: code
   - title: "Circle maker"
-    url: "https://github.com/acgd-webdev-javascript/circle-maker"
+    url: "https://github.com/ltw-webdev-javascript/circle-maker"
   - title: "Circle colourer"
-    url: "https://github.com/acgd-webdev-javascript/circle-colourer"
+    url: "https://github.com/ltw-webdev-javascript/circle-colourer"
   - title: "Simple to-do list"
-    url: "https://github.com/acgd-webdev-javascript/simple-to-do-list"
+    url: "https://github.com/ltw-webdev-javascript/simple-to-do-list"
 ---

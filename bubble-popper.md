@@ -22,7 +22,7 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-javascript/bubble-popper/fork"
+  url: "https://github.com/ltw-webdev-javascript/bubble-popper/fork"
 
 steps:
   - title: "Set up project"

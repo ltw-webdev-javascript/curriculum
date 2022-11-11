@@ -24,19 +24,19 @@ slides:
 
 tasks:
   - title: "Prodigious Picker"
-    url: "https://activities.learn-the-web.algonquindesign.ca/prodigious-picker/"
+    url: "https://activities.learntheweb.courses/prodigious-picker/"
     type: activity
   - title: "Spacing Superstar"
-    url: "https://activities.learn-the-web.algonquindesign.ca/spacing-superstar/"
+    url: "https://activities.learntheweb.courses/spacing-superstar/"
     type: activity
   - title: "Implementing ARIA"
     url: implementing-aria
     type: lesson
     disabled: true
   - title: "ARIA ready?"
-    url: "https://github.com/acgd-webdev-javascript/aria-ready"
+    url: "https://github.com/ltw-webdev-javascript/aria-ready"
     disabled: true
   - title: "It’s more than just mice"
-    url: "https://github.com/acgd-webdev-javascript/its-more-than-just-mice"
+    url: "https://github.com/ltw-webdev-javascript/its-more-than-just-mice"
     disabled: true
 ---

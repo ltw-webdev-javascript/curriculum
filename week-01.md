@@ -24,16 +24,16 @@ slides:
 
 tasks:
   - title: "Type Trapper"
-    url: "https://activities.learn-the-web.algonquindesign.ca/type-trapper/"
+    url: "https://activities.learntheweb.courses/type-trapper/"
     type: activity
   - title: "What’s yo name?"
     url: whats-yo-name
     type: lesson
     submit: code
   - title: "Letter looper"
-    url: "https://github.com/acgd-webdev-javascript/letter-looper"
+    url: "https://github.com/ltw-webdev-javascript/letter-looper"
   - title: "Letter looper triangle"
-    url: "https://github.com/acgd-webdev-javascript/letter-looper-triangle"
+    url: "https://github.com/ltw-webdev-javascript/letter-looper-triangle"
   - title: "Phrasal template generator"
-    url: "https://github.com/acgd-webdev-javascript/phrasal-template-generator"
+    url: "https://github.com/ltw-webdev-javascript/phrasal-template-generator"
 ---

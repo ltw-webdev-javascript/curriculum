@@ -12,7 +12,7 @@ extra_tutorials:
     highlight: true
 
 fork:
-  url: "https://github.com/acgd-webdev-javascript/jquery-waypoints-svg/fork"
+  url: "https://github.com/ltw-webdev-javascript/jquery-waypoints-svg/fork"
 
 steps:
   - title: "Using waypoints"

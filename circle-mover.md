@@ -16,7 +16,7 @@ extra_tutorials:
     url: "/courses/javascript/javascript-jquery-events/"
 
 fork:
-  url: "https://github.com/acgd-webdev-javascript/circle-mover/fork"
+  url: "https://github.com/ltw-webdev-javascript/circle-mover/fork"
 
 goal:
   before: "We’ll have a fully functional application that moves a circle around the screen."

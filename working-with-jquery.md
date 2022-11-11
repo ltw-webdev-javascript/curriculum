@@ -15,7 +15,7 @@ goal:
       text: "Remember the purpose of this lesson is to type the code out yourself—build up that muscle memory in your fingers!"
 
 fork:
-  url: "https://github.com/acgd-webdev-javascript/working-with-jquery/fork"
+  url: "https://github.com/ltw-webdev-javascript/working-with-jquery/fork"
 
 extra_tutorials:
   - title: "Document object model"
@@ -247,9 +247,9 @@ steps:
 
           There are a few more manipulations like this:
 
-          - `prepend()` — add to the beginning, inside the HTML element.
-          - `after()` — add to the HTML below this elements closing tag.
-          - `before()` — 
+          - `prepend()` — add to the beginning, inside the HTML element.
+          - `after()` — add to the HTML below this elements closing tag.
+          - `before()` —
       - num: 17
         text: |
           Up until this line the dinosaur won’t even be visible on the screen. We created new HTML elements, but they only existed in the JavaScript. This line will add them to the HTML tag that’s already in our `index.html` file.

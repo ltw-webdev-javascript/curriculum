@@ -24,14 +24,14 @@ video_tutorials:
 
 tasks:
   - title: "JavaScript Journeyer"
-    url: "https://activities.learn-the-web.algonquindesign.ca/javascript-journeyer/"
+    url: "https://activities.learntheweb.courses/javascript-journeyer/"
     type: activity
   - title: "Responsive infographic paper plan"
-    url: "https://github.com/acgd-webdev-javascript/responsive-infographic-paper-plan"
+    url: "https://github.com/ltw-webdev-javascript/responsive-infographic-paper-plan"
     type: paper
     no-solution: true
   - title: "Responsive infographic"
-    url: "https://github.com/acgd-webdev-javascript/responsive-infographic"
+    url: "https://github.com/ltw-webdev-javascript/responsive-infographic"
     graded-as: infographic
   - title: "Browser testing"
     url: "/courses/shared/browser-testing/"
