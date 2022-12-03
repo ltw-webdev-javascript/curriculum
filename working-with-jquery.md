@@ -6,8 +6,6 @@ desc: "Use jQuery to simplify manipulating HTML while building a list of dinosau
 markbot_submit: true
 hide_show_for_marks: true
 
-video: "7KqJgg7p8UQ"
-
 goal:
   before: "We’re going to look at how to use jQuery to change how we work with HTML in JavaScript."
   notes:
