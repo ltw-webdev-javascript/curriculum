@@ -15,7 +15,7 @@ steps:
   - title: "Using smooth scrolling"
     before: |
       Watch this video on implementing smooth scrolling on a website.
-    video: "https://videos.learntheweb.courses/playlists/javascript-jquery-effects/3-scrolling-animation.mp4"
+    video: "https://video-assets.learntheweb.courses/javascript-jquery-effects/3-scrolling-animation.mp4"
 
   - title: "Create a smooth scrolling navigation"
     before: |

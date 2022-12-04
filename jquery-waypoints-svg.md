@@ -18,7 +18,7 @@ steps:
   - title: "Using waypoints"
     before: |
       Watch this video on implementing waypoints on a website.
-    video: "https://videos.learntheweb.courses/playlists/javascript-jquery-effects/4-waypoints.mp4"
+    video: "https://video-assets.learntheweb.courses/javascript-jquery-effects/4-waypoints.mp4"
 
   - title: "Create a waypoints animation"
     before: |
